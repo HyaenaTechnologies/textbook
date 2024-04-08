@@ -1,12 +1,11 @@
-# Textbook
+# Specification
 
-Textbook is a set of Open Source Textbooks.
+Specification is a set of Open Source Specifications.
 
-## Open Source Textbooks
+## Open Source Specifications
 
 - Electronics Engineering
 - Software Development
-
 
 ## Build
 
