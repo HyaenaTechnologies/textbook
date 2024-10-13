@@ -1,8 +1,8 @@
 # Specification
 
-Specification is a set of Open Source Specifications.
+Documentation and Specifications
 
-## Open Source Specifications
+## Specifications
 
 - Electronics Engineering
 - Software Development
